@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido al Area de Desarrolladores.
 
 You can use the [editor on GitHub](https://github.com/simahnne/Hotel/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
